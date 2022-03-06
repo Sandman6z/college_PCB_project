@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=项目9.SchDoc
+Record=SheetSymbol|SourceDocument=项目9.SchDoc|Designator=28power|SchDesignator=28power|FileName=28power.SchDoc|SymbolType=Normal|RawFileName=28power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=项目9.SchDoc|Designator=AD and UART|SchDesignator=AD and UART|FileName=AD and UART.SchDoc|SymbolType=Normal|RawFileName=AD and UART.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=项目9.SchDoc|Designator=DST and Memory|SchDesignator=DST and Memory|FileName=DST and Memory.SchDoc|SymbolType=Normal|RawFileName=DST and Memory.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

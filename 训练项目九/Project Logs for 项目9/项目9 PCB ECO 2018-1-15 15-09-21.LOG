@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=CH0 Pin=J4-1
+Removed Pin From Net: NetName=CH1 Pin=J4-2
+Removed Pin From Net: NetName=CH2 Pin=J4-3
+Removed Pin From Net: NetName=CH3 Pin=J4-4
+Removed Pin From Net: NetName=CH4 Pin=J4-5
+Removed Pin From Net: NetName=CH5 Pin=J4-6
+Removed Pin From Net: NetName=CH6 Pin=J4-7
+Removed Pin From Net: NetName=CH7 Pin=J4-8
+Removed Pin From Net: NetName=CH7 Pin=U1-167
+Removed Pin From Net: NetName=CH6 Pin=U1-168
+Removed Pin From Net: NetName=CH5 Pin=U1-169
+Removed Pin From Net: NetName=CH4 Pin=U1-170
+Removed Pin From Net: NetName=CH3 Pin=U1-171
+Removed Pin From Net: NetName=CH2 Pin=U1-172
+Removed Pin From Net: NetName=CH1 Pin=U1-173
+Removed Pin From Net: NetName=CH0 Pin=U1-174
+Added Pin To Net: NetName=CH_0 Pin=J4-1
+Added Pin To Net: NetName=CH_0 Pin=U1-174
+Added Net: Name=CH_0
+Added Pin To Net: NetName=CH_1 Pin=J4-2
+Added Pin To Net: NetName=CH_1 Pin=U1-173
+Added Net: Name=CH_1
+Added Pin To Net: NetName=CH_2 Pin=J4-3
+Added Pin To Net: NetName=CH_2 Pin=U1-172
+Added Net: Name=CH_2
+Added Pin To Net: NetName=CH_3 Pin=J4-4
+Added Pin To Net: NetName=CH_3 Pin=U1-171
+Added Net: Name=CH_3
+Added Pin To Net: NetName=CH_4 Pin=J4-5
+Added Pin To Net: NetName=CH_4 Pin=U1-170
+Added Net: Name=CH_4
+Added Pin To Net: NetName=CH_5 Pin=J4-6
+Added Pin To Net: NetName=CH_5 Pin=U1-169
+Added Net: Name=CH_5
+Added Pin To Net: NetName=CH_6 Pin=J4-7
+Added Pin To Net: NetName=CH_6 Pin=U1-168
+Added Net: Name=CH_6
+Added Pin To Net: NetName=CH_7 Pin=J4-8
+Added Pin To Net: NetName=CH_7 Pin=U1-167
+Added Net: Name=CH_7
+Added Room: Name=28power
+Added Room: Name=AD and UART
+Added Room: Name=DST and Memory

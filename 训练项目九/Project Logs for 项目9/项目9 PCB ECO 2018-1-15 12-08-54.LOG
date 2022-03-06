@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=J3 Old Footprint=DB9/F New Footprint=SIP9
+Change Component Footprint: Designator=J4 Old Footprint=DB9/F New Footprint=SIP9
+Added Room: Name=28power
+Added Room: Name=AD and UART
+Added Room: Name=DST and Memory
